@@ -1,0 +1,20 @@
+.icon-img{
+    width: 70;
+    height: 70px;
+    margin-bottom: 2rem ;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #813AFE;
+    border-color: #813AFE;
+}
+.error_msg {
+	width: 370px;
+	padding: 15px;
+	margin: 5px 0;
+	font-size: 14px;
+	background-color: #f34646;
+	color: white;
+	border-radius: 5px;
+	text-align: center;
+}
